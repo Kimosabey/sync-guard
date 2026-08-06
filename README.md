@@ -7,7 +7,7 @@
 ## 📖 Overview
 SyncGuard reconciles cache against the database of record, detecting and repairing divergence so read-through/write-aside caching stays correct.
 
-> Part of my Senior Hybrid Engineer 2026 portfolio (`#50`). Built on the "Antigravity" model — logic, state, and UI run locally in Docker while heavy reasoning is offloaded to cloud APIs, so the whole system runs on modest hardware.
+> Built on the "Antigravity" model.
 
 ## 🚀 Quick Start
 ```bash
